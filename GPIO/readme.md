@@ -18,3 +18,4 @@ END
 ```
 ### Diagram : 
 
+![Diagram](https://github.com/ahmed79ramdan/8051_MCS/blob/master/GPIO/Diagram1.png)
