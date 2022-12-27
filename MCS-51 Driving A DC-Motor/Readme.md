@@ -2,9 +2,10 @@
 AT89C51 Based Projects Using 8051 Assembly 
 
 ## 1- MCS-51 Driving Parallel Input-Output Data
-    ### Devolped Code
+
+### Devolped Code
     
-    ```
+```
 $NOMOD51
 $INCLUDE (8051.MCU)
 
@@ -14,6 +15,5 @@ loop:
 
       JMP loop
 END
-
 ```
-    ### Schematic Diagram
+### Schematic Diagram
