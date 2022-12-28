@@ -1,19 +1,19 @@
 # Microcontroller 8051 
 AT89C51 Based Projects Using 8051 Assembly 
 
-## 1- MCS-51 Driving Parallel Input-Output Data
-    ### Objectives
+## 1- MCS-51 Driving a Servo Motor
+### Objectives
     ```
     
     
     ```
-    ### Devolped Code 
+### Devolped Code 
     ```
     
     
     
     ```
-    ### Schematic Diagram
+### Schematic Diagram
     ```
     
     
