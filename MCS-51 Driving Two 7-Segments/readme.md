@@ -12,3 +12,4 @@
 ```
 
 ## Diagram:
+![Diagram](https://github.com/ahmed79ramdan/8051_MCS/blob/master/MCS-51%20Driving%20Two%207-Segments/7%20seg.png)
