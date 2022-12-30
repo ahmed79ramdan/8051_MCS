@@ -14,3 +14,4 @@ AT89C51 Based Projects Using 8051 Assembly
 
 ```
 ### Schematic Diagram
+![Diagram](https://github.com/ahmed79ramdan/8051_MCS/blob/master/MCS-51%20Driving%20a%20Stepper%20Motor/aaa.png)
