@@ -31,3 +31,4 @@ Left:
 END
 ```
 ### Schematic Diagram
+![Diagram](https://github.com/ahmed79ramdan/8051_MCS/blob/master/MCS-51%20Driving%20A%20DC-Motor/Screenshot%20(447).png)
