@@ -53,8 +53,7 @@ Start:JNB P1.1,ANGLE_90
       WAIT3:DJNZ R3,WAIT4
       DJNZ R3,WAIT4
       RET
-Loop:	
-      jmp Loop
+
 
 ;====================================================================
       END
